@@ -1,5 +1,6 @@
 # -innomaticsInternshipTask1
 #Introduction
+
 The Personal Budget Tracker is a web-based application designed to help users manage their monthly income and expenses. It allows users to add entries for income and expenses, categorize them, and view a detailed summary of their budget.
 #Features
 1..Add Income or Expense Entries:
@@ -13,6 +14,7 @@ Clean interface with proper alignment for better readability.
 4..Reset Form:
 The form automatically resets after an entry is added to streamline the input process.
 #File Structure
+
 1..HTML Structure:
 header: Contains the title and navigation links.
 section: Divided into three parts:
