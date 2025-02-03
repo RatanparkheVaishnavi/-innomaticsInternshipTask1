@@ -42,10 +42,13 @@ Handles form submission and dynamically adds rows to the table.
 
 1..Add a New Entry:
 Fill in the Amount, Category, Description, Date, and Type fields in the form.
+
 2..Click Add Entry to save the data.
 The entry will appear in the Budget Summary table.
+
 3..View Budget Summary:
 Navigate to the "View Budget Summary" section to review all added entries.
+
 4..Reset Form:
 After adding an entry, the form automatically clears for the next input.
 
@@ -53,9 +56,12 @@ After adding an entry, the form automatically clears for the next input.
 
 1..Data Persistence:
 Use local storage or a database to save entries across sessions.
+
 2..Detailed Reports:
 Add visual charts for monthly spending and income trends.
+
 3..Filter/Search Functionality:
 Enable filtering by category, date, or type for better analysis.
+
 4..Edit/Delete Entries:
 Provide options to modify or remove existing entries.
