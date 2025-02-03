@@ -2,7 +2,9 @@
 #Introduction
 
 The Personal Budget Tracker is a web-based application designed to help users manage their monthly income and expenses. It allows users to add entries for income and expenses, categorize them, and view a detailed summary of their budget.
+
 #Features
+
 1..Add Income or Expense Entries:
 Users can input the amount, category, description, date, and type (Income/Expense).
 Entries are displayed in a dynamic table for review.
