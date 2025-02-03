@@ -6,11 +6,14 @@ The Personal Budget Tracker is a web-based application designed to help users ma
 1..Add Income or Expense Entries:
 Users can input the amount, category, description, date, and type (Income/Expense).
 Entries are displayed in a dynamic table for review.
+
 2..Budget Summary:
 A table summarizes all budget entries, showing the category, amount, description, date, and type.
+
 3..User-Friendly Design:
 Responsive layout for easy usage on desktop and mobile devices.
 Clean interface with proper alignment for better readability.
+
 4..Reset Form:
 The form automatically resets after an entry is added to streamline the input process.
 
@@ -23,15 +26,18 @@ Introduction Section: Overview of the application.
 Add Income/Expense Section: Form for adding new entries.
 Budget Summary Section: Table displaying the budget entries.
 footer: Links for Privacy Policy and Terms of Use.
+
 2..CSS Styles:
 Styled using internal CSS for:
 Layout and alignment.
 Button hover effects.
 Table styling for better readability.
+
 3..JavaScript Functionality:
 Handles form submission and dynamically adds rows to the table.
 
 #How to Use
+
 1..Add a New Entry:
 Fill in the Amount, Category, Description, Date, and Type fields in the form.
 2..Click Add Entry to save the data.
@@ -42,6 +48,7 @@ Navigate to the "View Budget Summary" section to review all added entries.
 After adding an entry, the form automatically clears for the next input.
 
 #Future Improvements
+
 1..Data Persistence:
 Use local storage or a database to save entries across sessions.
 2..Detailed Reports:
