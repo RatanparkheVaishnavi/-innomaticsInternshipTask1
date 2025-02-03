@@ -13,6 +13,7 @@ Responsive layout for easy usage on desktop and mobile devices.
 Clean interface with proper alignment for better readability.
 4..Reset Form:
 The form automatically resets after an entry is added to streamline the input process.
+
 #File Structure
 
 1..HTML Structure:
@@ -29,6 +30,7 @@ Button hover effects.
 Table styling for better readability.
 3..JavaScript Functionality:
 Handles form submission and dynamically adds rows to the table.
+
 #How to Use
 1..Add a New Entry:
 Fill in the Amount, Category, Description, Date, and Type fields in the form.
@@ -38,6 +40,7 @@ The entry will appear in the Budget Summary table.
 Navigate to the "View Budget Summary" section to review all added entries.
 4..Reset Form:
 After adding an entry, the form automatically clears for the next input.
+
 #Future Improvements
 1..Data Persistence:
 Use local storage or a database to save entries across sessions.
